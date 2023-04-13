@@ -1,6 +1,9 @@
 # discord_ssh
 manage your authorized_keys with discord.
 
+> **⚠️ warning**  
+> anyone with send message permissions in the channel you use can add new keys
+
 ## should i use this
 please don't. i made it as a joke. if you use it i will cry.
 
