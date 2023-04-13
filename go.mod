@@ -1,4 +1,4 @@
-module discord_ssh
+module github.com/easrng/discord_ssh
 
 go 1.19
 
